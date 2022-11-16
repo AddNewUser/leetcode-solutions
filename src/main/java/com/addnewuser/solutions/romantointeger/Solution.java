@@ -31,7 +31,7 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.Objects;
 
-class Solution {
+public class Solution {
 
     /**
      * Convert input Roman symbol to int value.
